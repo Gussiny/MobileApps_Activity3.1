@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tarea3</string>
+    <string name="name">Nombre</string>
+    <string name="price">Precio</string>
+</resources>
