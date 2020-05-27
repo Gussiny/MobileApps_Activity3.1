@@ -1,0 +1,27 @@
+[
+  {
+    'name':'burger', 
+    'price':15, 
+    'description':'a juicy burger!'
+  },
+  {
+    'name':'hotdog', 
+    'price':20, 
+    'description':'an ok hot dog'
+  },
+  {
+    'name':'tacos', 
+    'price':12, 
+    'description':'some pretty good tacos'
+  },
+  {
+    'name':'torta', 
+    'price':22, 
+    'description':'nice torta'
+  },
+  {
+    'name':'carne asada', 
+    'price':50, 
+    'description':'a great carne asada'
+ 	}
+]
